@@ -9,10 +9,15 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bin": "index.js",
   "dependencies": {
     "base-64": "^0.1.0",
     "datauri": "^1.1.0",
     "font-manager": "^0.3.0",
+    "libui-node": "^0.2.1",
     "ttf2woff": "^2.0.1"
+  },
+  "devDependencies": {
+    "launchui": "^0.1.4"
   }
 }
