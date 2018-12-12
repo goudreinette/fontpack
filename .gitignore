@@ -1,3 +1,5 @@
 node_modules/
 test/
-font-packager-v1.0-darwin-x64/
+fontpack-v1.0-darwin-x64/
+.idea/
+dist/
