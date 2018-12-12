@@ -1,2 +1,0 @@
-- Open/homedir cross-platform
-- Tab for Drag n' drop
