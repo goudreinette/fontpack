@@ -1,6 +1,5 @@
 # FontPack
 
-Bundles entire font-families installed locally into single CSS files.
 
 ![](./screenshot.png)
 ![](./icon/icon.png)
